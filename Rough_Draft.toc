@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Image Processing}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Point Operators}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Histograms}{2}{subsection.2.2}
+\contentsline {paragraph}{\numberline {}Cumulative Distribution}{3}{paragraph.2.2.0.2}
+\contentsline {subsection}{\numberline {2.3}Filters}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {}Linear Systems}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {}Matrix Transformations}{5}{subsubsection.2.3.2}
+\contentsline {paragraph}{\numberline {}Road-Map}{5}{paragraph.2.3.2.2}
+\contentsline {paragraph}{\numberline {}Scalars}{6}{paragraph.2.3.2.3}
+\contentsline {paragraph}{\numberline {}Transpose}{6}{paragraph.2.3.2.4}
+\contentsline {paragraph}{\numberline {}Matrix Multiplication}{6}{paragraph.2.3.2.5}
+\contentsline {paragraph}{\numberline {}Inverse}{7}{paragraph.2.3.2.6}
+\contentsline {paragraph}{\numberline {}Magnitude \& Direction}{7}{paragraph.2.3.2.7}
+\contentsline {subsubsection}{\numberline {}Geometric Transformations}{8}{subsubsection.2.3.3}
+\contentsline {paragraph}{\numberline {}Reflection}{8}{paragraph.2.3.3.2}
+\contentsline {paragraph}{\numberline {}Rotations}{9}{paragraph.2.3.3.3}
+\contentsline {paragraph}{\numberline {}Shears}{9}{paragraph.2.3.3.4}
+\contentsline {paragraph}{\numberline {}Scale}{9}{paragraph.2.3.3.5}
+\contentsline {paragraph}{\numberline {}Translations}{9}{paragraph.2.3.3.6}
+\contentsline {paragraph}{\numberline {}Affine Transforms}{10}{paragraph.2.3.3.7}
+\contentsline {subsubsection}{\numberline {}Vector Spaces}{10}{subsubsection.2.3.4}
+\contentsline {subsection}{\numberline {2.4}Gradients}{12}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {}Partial Derivatives}{12}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {}Calculation}{13}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Image Pyramids}{14}{subsection.2.5}
+\contentsline {paragraph}{\numberline {}Sampling}{15}{paragraph.2.5.0.5}
+\contentsline {section}{\numberline {3}HOG Feature Descriptors}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Preprocessing}{16}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Gradient Images}{16}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Gradient Histograms}{16}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Block Normalization}{18}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Finalize - Support Vector Machines}{18}{subsection.3.5}
+\contentsline {section}{\numberline {4}Further Research}{18}{section.4}
+\contentsline {section}{Bibliography}{19}{section*.37}

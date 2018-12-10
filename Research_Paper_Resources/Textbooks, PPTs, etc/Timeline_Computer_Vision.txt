@@ -1,0 +1,38 @@
+
+A  rough  timeline  of  some  of  the  most  active  topics  of  research  in  computer vision:
+------------------------------------------------------------------------------
+   /|\   Digital image processing
+    |    Blocks world, line labeling
+    |    Generalized cylinders
+    |    Generalized
+1970|    cylinders
+    |    Pictorial structures
+    |    Stereo correspondence
+    |    Intrinsic images
+    |    Optical flow
+    |    Structure from motion
+    |    Image pyramids
+    |    Scale-space processing
+1980|    Shape from shading, texture, and focus
+    |    Physically-based modeling
+    |    Regularization
+    |    Markov Random Fields
+    |    Kalman filters
+    |    3D range data processing
+    |    Projective invariants
+    |    Factorization
+1990|    Physics-based vision
+    |    Graph cuts
+    |    Particle filtering
+    |    Energy-based segmentation
+    |    Face recognition and detection
+    |    Face recognition and detection
+    |    Subspace methods
+    |    Image-based modeling
+    |    and rendering
+2000|    Texture synthesis and inpainting
+    |    Computational photography
+    |    Feature-based  recognition
+    |    MRF inference algorithms
+    |    Category recognition
+   \|/   Learning

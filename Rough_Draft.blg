@@ -1,0 +1,99 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Rough_Draft.aux
+The style file: IEEEtranN.bst
+Database file #1: Citations.bib
+Warning--entry type for "papert_summer_1966" isn't style-file defined
+--line 149 of file Citations.bib
+Warning--entry type for "nat_36_2017" isn't style-file defined
+--line 215 of file Citations.bib
+-- IEEEtranN.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Natbib version - not for normal IEEE work.
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2696 of file IEEEtranN.bst
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2696 of file IEEEtranN.bst
+Warning--missing publisher in contributors_computer_2018
+Warning--empty year in contributors_computer_2018
+Warning--empty year in szeliski_computer_2011
+Warning--empty journal in malik_three_2016
+Warning--empty year in malik_three_2016
+Warning--empty year in dalal_histograms_2005
+Warning--missing publisher in contributors_distortion_2018
+Warning--empty year in contributors_distortion_2018
+Warning--empty journal in pizer_adaptive_1987
+Warning--empty year in pizer_adaptive_1987
+Warning--empty journal in lowe_distinctive_2004
+Warning--empty year in lowe_distinctive_2004
+Warning--empty journal in baripada_college_hungarian_2017
+Warning--empty year in baripada_college_hungarian_2017
+Warning--empty year in larson_calculus_2014
+Warning--empty booktitle in viola_rapid_2001
+Warning--empty year in viola_rapid_2001
+Warning--empty journal in bay_speeded-up_2008
+Warning--empty year in bay_speeded-up_2008
+Warning--missing publisher in mallick_histogram_2016
+Warning--empty year in mallick_histogram_2016
+Warning--empty year in kolman_elementary_2008
+Warning--empty journal in thomas_code_2002
+Warning--empty year in thomas_code_2002
+Warning--empty journal in gao_real-time_2015
+Warning--empty year in gao_real-time_2015
+Warning--empty journal in choi_general_2013
+Warning--empty year in choi_general_2013
+Warning--empty journal in vondrick_visualizing_2016
+Warning--empty year in vondrick_visualizing_2016
+Warning--empty journal in dollar_fast_2014
+Warning--empty year in dollar_fast_2014
+Warning--empty journal in thrun_stanley:_2007
+Warning--empty year in thrun_stanley:_2007
+Warning--empty year in bansal_real-time_2010
+Warning--missing publisher in deibel_executive_2008
+Warning--empty year in deibel_executive_2008
+Warning--empty journal in fleetwood_public_2017
+Warning--empty year in fleetwood_public_2017
+Warning--empty journal in ess_mobile_2008
+Warning--empty year in ess_mobile_2008
+Warning--missing publisher in telles_python_2008
+Warning--empty year in telles_python_2008
+Warning--empty journal in garnett_image_2007
+Warning--empty year in garnett_image_2007
+Warning--empty year in william_a._hoff_introduction_2015
+Warning--empty journal in dixit_autonomous_2016
+Warning--empty year in dixit_autonomous_2016
+Warning--missing publisher in j._robert_oppenheimer_address_1945
+Warning--empty year in j._robert_oppenheimer_address_1945
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2710 of file IEEEtranN.bst
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2710 of file IEEEtranN.bst
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2710 of file IEEEtranN.bst
+Too many commas in name 1 of "Edmond Awad, Sohan Dsouza, Iyad Rahwan, Azim Shariff, Jean-François Bonnefon" for entry edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+while executing---line 2710 of file IEEEtranN.bst
+Warning--missing publisher in edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+Warning--empty year in edmond_awad_sohan_dsouza_iyad_rahwan_azim_shariff_moral_2016
+Warning--empty journal in viola_robust_2001
+Warning--empty year in viola_robust_2001
+Warning--missing publisher in drakos_python_2006
+Warning--empty year in drakos_python_2006
+Warning--empty year in cweiske_gradient2_2006
+Warning--empty year in scott_programming_2016
+Warning--missing publisher in venners_making_2003
+Warning--empty year in venners_making_2003
+Warning--empty journal in singh_critical_2015
+Warning--empty year in singh_critical_2015
+Warning--empty year in amit_object_2014
+Warning--empty journal in an_novel_2016
+Warning--empty year in an_novel_2016
+Warning--missing publisher in van_rossum_brief_2009
+Warning--empty year in van_rossum_brief_2009
+Warning--missing publisher in rosebrock_image_2015
+Warning--empty year in rosebrock_image_2015
+Warning--edition ordinal word "E-book" may be too high (or improper) for conversion in schweber_shadow_2007
+Warning--empty year in schweber_shadow_2007
+Warning--empty journal in zemek_effect_1975
+Warning--empty year in zemek_effect_1975
+
+Done.
+(There were 6 error messages)
