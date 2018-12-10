@@ -23,7 +23,7 @@ This project *is* ongoing. Currently the paper inlcudes three of the six total s
  - Autonomous Vehicles
  - Presentation of Analysis and Findings (Is it applicable to Autonomous Vehicles)
  
-There is a [companion paper](https://github.com/mckqw/CVThesis) that reviews the ethics of autonomous vehicles.
+There is a [companion paper](https://github.com/mckqw/EthicsOfAV) that reviews the ethics of autonomous vehicles.
 
 This paper was written in [MikTex](https://miktex.org/) with the use of [TexStudio](https://www.texstudio.org/)
 
